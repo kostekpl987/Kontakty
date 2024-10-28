@@ -1,0 +1,40 @@
+Menu:
+Składa się z trzech zakładek:
+- kontakty
+- sortowanie
+- opcje
+Po Kliknięciu w zakłdke kontakty rozwijają się podzakładki:
+- dodaj
+- usuń
+- edytuj
+- załaduj
+- zapisz 
+- koniec
+
+Po kliknięciu na dodaj - wyślwietlają się pola tekstowe oraz przycisk dodaj,
+a następnie po wpisaniu w nie wartości i klknięciu przycisku nowy kontakt zostanie dodany
+
+po kliknięciu usuń - jeżeli kontakt nie został zaznaczony na liście nie jestanie się nic, 
+w innym wybrany kontakt zostanie usunięty z listy nie permanentnie chyba że użytkownik zapisze kontakty
+
+po kliknięciu edytuj - jeżeli kontakt nie został zaznaczony na liście nie jestanie się nic, 
+w innym przypadku wyślwietlają się pola tekstowe oraz przycisk edytuj,
+a następnie po wpisaniu w nie wartości i klknięciu przycisku zostaną zmienione dane kontaktu nie permanentnie chyba że użytkownik zapisze kontakty
+
+po kliknięciu załaduj - do listy zostaną dodane kontakty z pliku tekstowego "kontakty.txt"
+po kliknięciu zapisz - do pliku "kontakty.txt" zostaną zapisane kontakty z listy
+po kliknięciu koniec - aplikacja zostanie wyłączona
+
+
+Po Kliknięciu w zakłdke sortowanie rozwijają się podzakładki:
+- imie
+- nazwisko
+- data_ur
+Po kliknięciu na wybrany przycisk kontakty zostaną posortowane według wybranego parametru, jednak nie będzie ona posortowana permanentnie do momentu, aż użytkownik ją zapisze.
+
+Po Kliknięciu w zakłdke opcje rozwijają się podzakładki:
+- pomoc
+- o autorze
+- wyszukaj
+Po kliknięciu na pomoc - zostanie wyświetlona kolejna podzakładka instrukacja która zaś wyświetlna link to dokumentacji
+Po kliknięciu o autorze - zostaje wyświetlona wiadomość z autorem Programu
