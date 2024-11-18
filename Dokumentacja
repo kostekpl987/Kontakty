@@ -13,6 +13,7 @@ Po Kliknięciu w zakłdke kontakty rozwijają się podzakładki:
 
 Po kliknięciu na dodaj - wyślwietlają się pola tekstowe oraz przycisk dodaj,
 a następnie po wpisaniu w nie wartości i klknięciu przycisku nowy kontakt zostanie dodany
+Po wybraniu innej operacji pola tekstowe i przycisk znikną
 
 po kliknięciu usuń - jeżeli kontakt nie został zaznaczony na liście nie jestanie się nic, 
 w innym wybrany kontakt zostanie usunięty z listy nie permanentnie chyba że użytkownik zapisze kontakty
@@ -20,6 +21,7 @@ w innym wybrany kontakt zostanie usunięty z listy nie permanentnie chyba że u�
 po kliknięciu edytuj - jeżeli kontakt nie został zaznaczony na liście nie jestanie się nic, 
 w innym przypadku wyślwietlają się pola tekstowe oraz przycisk edytuj,
 a następnie po wpisaniu w nie wartości i klknięciu przycisku zostaną zmienione dane kontaktu nie permanentnie chyba że użytkownik zapisze kontakty
+Po wybraniu innej operacji pola tekstowe i przycisk znikną
 
 po kliknięciu załaduj - do listy zostaną dodane kontakty z pliku tekstowego "kontakty.txt"
 po kliknięciu zapisz - do pliku "kontakty.txt" zostaną zapisane kontakty z listy
@@ -37,5 +39,6 @@ Po Kliknięciu w zakłdke opcje rozwijają się podzakładki:
 - o autorze
 - wyszukaj
 Po kliknięciu na pomoc - zostanie wyświetlona kolejna podzakładka instrukacja która zaś wyświetlna link to dokumentacji
-Po kliknięciu o autorze - zostaje wyświetlona wiadomość z autorem Programu
+Po kliknięciu o autorze - zostaje otwarta dokumentacja w przeglądarce na stronie github
 Po kliknięciu wyszukaj - zostają wyświetlone pole tekstowe i przycisk po wpisaniu imienia w polu tekstowym i kliknięciu przycisku zostje wyszukany kontakt 
+
